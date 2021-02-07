@@ -1,3 +1,5 @@
-# PDF merger
+# Argparser
+https://docs.python.org/3/howto/argparse.html
 
-Merges all PDFs in the directory where the script is running.
+# PDF Compression
+https://github.com/theeko74/pdfc/blob/master/pdf_compressor.py
